@@ -5,6 +5,8 @@ some notes about learn adobe animate cc for inter active media
 
 我会在这里记录一些的我的读书笔记。
 
-[第一章](/notes/Chapter2-vector-animation.md)
+[简单的动画制作](/notes/Chapter2-vector-animation.md)
+
+[基本功能操作(图层组织、蒙版使用，文字功能使用以及文件导出)](/notes/construct-and-manage.md)
 
 
