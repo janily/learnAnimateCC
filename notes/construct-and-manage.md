@@ -14,7 +14,7 @@
 
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f4qjk3mulpj308v07h74v.jpg)
 
-如下图所示，新建一个蒙版图层，选择聚星工具，绘制蒙版的显示区域(白色区域)：
+如下图所示，新建一个蒙版图层，选择矩形工具，绘制蒙版的显示区域(白色区域)：
 
 ![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f4qjpzu363j30cv0b1dhp.jpg)
 
