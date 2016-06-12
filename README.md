@@ -9,4 +9,6 @@ some notes about learn adobe animate cc for inter active media
 
 [基本功能操作(图层组织、蒙版使用，文字功能使用以及文件导出)](/notes/construct-and-manage.md)
 
+[骨骼动画、笔刷使用以及元件的使用](brush-bone-toolsymbols.md)
+
 
