@@ -11,4 +11,6 @@ some notes about learn adobe animate cc for inter active media
 
 [骨骼动画、笔刷使用以及元件的使用](/notes/brush-bone-tool-symbols.md)
 
+[使用Animate CC来制作视频格式的动画文件](/notes/export-video.md)
+
 
