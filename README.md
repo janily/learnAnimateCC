@@ -13,4 +13,6 @@ some notes about learn adobe animate cc for inter active media
 
 [使用Animate CC来制作视频格式的动画文件](/notes/export-video.md)
 
+[2D动画小练习](/notes/2d-animation.md)
+
 
