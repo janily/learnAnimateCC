@@ -15,4 +15,6 @@ some notes about learn adobe animate cc for inter active media
 
 [2D动画小练习](/notes/2d-animation.md)
 
+[h5小广告制作](/notes/banner.md)
+
 
