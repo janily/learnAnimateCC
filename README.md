@@ -17,4 +17,6 @@ some notes about learn adobe animate cc for inter active media
 
 [h5小广告制作](/notes/banner.md)
 
+[adobe stock使用](/notes/adobe-stock.md)
+
 
