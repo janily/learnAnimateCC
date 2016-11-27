@@ -19,4 +19,6 @@ some notes about learn adobe animate cc for inter active media
 
 [adobe stock使用](/notes/adobe-stock.md)
 
+[Animate cc和createjs一些需要注意的地方](/notes/animate-cc-bestpractice.md)
+
 
