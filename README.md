@@ -21,4 +21,6 @@ some notes about learn adobe animate cc for inter active media
 
 [Animate cc和createjs一些需要注意的地方](/notes/animate-cc-bestpractice.md)
 
+[Animate cc打字效果练习](/notes/type-effect-excise.md)
+
 
