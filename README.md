@@ -23,4 +23,8 @@ some notes about learn adobe animate cc for inter active media
 
 [Animate cc打字效果练习](/notes/type-effect-excise.md)
 
+[Animate cc蒙版文字效果](/notes/mask-text.md)
+
+
+
 
